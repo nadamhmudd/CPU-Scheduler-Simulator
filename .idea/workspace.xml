@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eab95e20-2c4a-45ed-a5fc-ac31aee19696" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mTfid9d9lut6uLAJfULiZgLG9Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Schedulers" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab95e20-2c4a-45ed-a5fc-ac31aee19696" name="Default Changelist" comment="" />
+      <created>1609522629585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609522629585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1609599601444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609599601444" />
+    <state width="1323" height="569" key="GridCell.Tab.0.bottom" timestamp="1609616180666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="569" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609616180666" />
+    <state width="1323" height="569" key="GridCell.Tab.0.center" timestamp="1609616180666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="569" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609616180666" />
+    <state width="1323" height="569" key="GridCell.Tab.0.left" timestamp="1609616180666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="569" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609616180666" />
+    <state width="1323" height="569" key="GridCell.Tab.0.right" timestamp="1609616180666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="569" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609616180666" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1609599612281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1609599612281" />
+    <state x="0" y="0" width="1150" height="715" maximized="true" key="dock-window-1" timestamp="1609610767289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1150" height="715" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1609610767289" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1610126524030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610126524030" />
+  </component>
+</project>
